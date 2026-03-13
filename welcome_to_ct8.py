@@ -1,3 +1,5 @@
+
+
 print("Welcome to CT8!")
 print("Great job correctly setting up this codespace")
 print("We will be using this site for the majority of the projects for this class")
@@ -23,8 +25,9 @@ print(r" \_____\____/|_|  |_|_|         |_|  |_|  |_|_____|_| \_|_|\_\_____|_| \
 
 print(f"This codespace belongs to {name}")
 print("\n\n")
-                                                                                          
-                                                                                          
+                                                                                                                                                                               
                                   
 print("Now it's your turn:")
-print("Find this line (line 30) in the welcome_to_ct8.py file, then change the message to say a fact about you.")                                  
+print("I like to play volleyball")     
+print("My favorite food is pasta")               
+print("I been everywhere in Europe")      

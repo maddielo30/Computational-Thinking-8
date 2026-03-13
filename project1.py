@@ -1,1 +1,15 @@
-print("Hello ")
+print("Hello")
+name=input("What is your name?")
+print("")
+print(f"Nice to meet you {name}")
+print("")
+print("We are going to tell a story using your help! I hope you have fun")
+animal=input("Pick a animal, any!")
+print("")
+Name=input("Pick a name for the animal")
+print("")
+food=input("Pick a food")
+print("")
+
+
+print(f"Once upon a time there was a {animal} named {Name}. {Name} loved {food} ")

@@ -24,7 +24,7 @@ t4 = create_sprite("stitch",x4,y4)
 
 # # Section 3 - Racing
 # # TODO - set how much each variable changes by and increase the number of repeats to at least 30
-# # TODO - x4 is the fastest because it has a bigger range and increases less. And x2 is the slowest because it has the smallest range.
+# # TODO - x4 is the fastest because it has a bigger range,increases less, and goes more spaces than the other sprites. And x2 is the slowest because it has the smallest range.
 for i in range(30):
     x1 += 12
     x2 += 10
